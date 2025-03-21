@@ -1,6 +1,6 @@
 <?php
 
-// Test thử hjhj
+// Test thử lần 2
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
